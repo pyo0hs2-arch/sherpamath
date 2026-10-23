@@ -2,6 +2,7 @@ new-assets/
 sherpa-git/
 index-multifile-backup.html
 *.txt
+!robots.txt
 *.hwp
 .bkit/
 README.md
