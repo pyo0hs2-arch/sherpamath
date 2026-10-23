@@ -3,6 +3,7 @@ sherpa-git/
 index-multifile-backup.html
 *.txt
 !robots.txt
+!llms.txt
 *.hwp
 .bkit/
 README.md
